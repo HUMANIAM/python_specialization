@@ -1,0 +1,6 @@
+do Output.printString("result :  ");
+       do Output.printInt(sum);
+       do Output.println();
+       do Output.printString("****************");
+       do Output.println();
+       do Sys.halt();
